@@ -1,0 +1,33 @@
+#body{
+	margin: 4%;
+}
+
+#heading{
+	background-color: lightblue;
+	height:50px;
+	margin:30px;
+}
+
+#body1{
+	background-color: lightblue;
+	height:150px;
+	margin:30px;
+}
+
+#body2{
+	margin:30px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#body2 > div {
+	width:30%;
+	background-color: lightblue;
+	height: 250px;
+}
+
+#footer{
+	background-color: lightblue;
+	height:70px;
+	margin:30px;
+}

@@ -1,0 +1,52 @@
+body{
+	background-color: lightblue;
+	font-family: Cambria;
+}
+
+form{
+	width:70%;
+	margin-right: 300px;
+	margin-left: 250px;
+}
+
+div{
+	background-color: white;
+	height: 20vh;
+	margin: 20px;
+	border-radius: 9px;
+	padding: 50px;
+}
+
+.Registration-Form{
+	border-top: 10px solid blue;
+	padding-top: 8px;
+}
+
+.rf{
+	font-size: 25px;
+}
+
+input{
+	border:none;
+	border-bottom: 1px solid gray;
+	padding-top: 20px;
+}
+
+.submit > button{
+	padding: 5px;
+	color:white;
+	border:;
+	border-radius: 6px;
+	background-color: blue;
+	font-family: Cambria;
+}
+
+
+
+.info{
+	padding: 1px;
+	float: left;
+	color: gray;
+	border-radius: 6px;
+	font-size: 15px;
+}
